@@ -4,3 +4,12 @@
 [submodule "plugins/hytale-x-tiltify"]
 	path = plugins/hytale-x-tiltify
 	url = https://github.com/HytaleThankmas/hytale-x-tiltify
+[submodule "plugins/thankmas-delivery"]
+	path = plugins/thankmas-delivery
+	url = https://github.com/HytaleThankmas/thankmas-delivery
+[submodule "plugins/thankmas-quests"]
+	path = plugins/thankmas-quests
+	url = https://github.com/HytaleThankmas/thankmas-quests
+[submodule "plugins/PlushieHunt"]
+	path = plugins/PlushieHunt
+	url = https://github.com/HytaleThankmas/PlushieHunt
