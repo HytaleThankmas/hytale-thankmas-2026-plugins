@@ -10,3 +10,6 @@
 [submodule "plugins/thankmas-quests"]
 	path = plugins/thankmas-quests
 	url = https://github.com/HytaleThankmas/thankmas-quests
+[submodule "plugins/PlushieHunt"]
+	path = plugins/PlushieHunt
+	url = https://github.com/HytaleThankmas/PlushieHunt
